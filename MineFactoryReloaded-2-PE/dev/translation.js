@@ -1,0 +1,18 @@
+Translation.addTranslation("Plastic Paver",{zh:"塑料铺路石"});
+Translation.addTranslation("Plastic Column",{zh:"塑料柱"});
+Translation.addTranslation("Large Plastic Bricks",{zh:"大型塑料砖"});
+Translation.addTranslation("Chiseled Plastic Bricks",{zh:"轮廓分明的塑料砖"});
+Translation.addTranslation("Plastic Road",{zh:"塑料路"});
+Translation.addTranslation("Plastic Bricks",{zh:"塑料砖块"});
+Translation.addTranslation("Ice Bricks",{zh:"冰砖块"});
+Translation.addTranslation("Glowstone Bricks",{zh:"荧光砖块"});
+Translation.addTranslation("Lapis Bricks",{zh:"青金石砖块"});
+Translation.addTranslation("Obsidian Bricks",{zh:"黑曜石砖块"});
+Translation.addTranslation("Paved Stone Bricks",{zh:"铺路石砖块"});
+Translation.addTranslation("Snow Bricks",{zh:"雪砖块"});
+Translation.addTranslation("Large Ice Bricks",{zh:"大型冰砖块"});
+Translation.addTranslation("Large Glowstone Bricks",{zh:"大型荧光砖块"});
+Translation.addTranslation("Large Lapis Bricks",{zh:"大型青金石砖块"});
+Translation.addTranslation("Large Obsidian Bricks",{zh:"大型黑曜石砖块"});
+Translation.addTranslation("Large Paved Stone Bricks",{zh:"大型铺路石砖"});
+Translation.addTranslation("Large Snow Bricks",{zh:"大型雪砖块"});
