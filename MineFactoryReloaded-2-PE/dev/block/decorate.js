@@ -34,7 +34,51 @@ Block.createBlock("iceBricks",[
 ],"opaque");
 
 IDRegistry.genBlockID("glowstoneBricks");
-Block.createBlock("glowstoneBricks",[
+Block.createBlock("glowstoneBricks",[IDRegistry.genBlockID("plasticPaver");
+
+Block.createBlock("plasticPaver",[
+
+    {name:"Plastic Paver",texture:[["plasticPaver",0]],inCreative:true}
+
+],"opaque");
+
+IDRegistry.genBlockID("plasticColumn");
+
+Block.createBlock("plasticColumn",[
+
+    {name:"Plastic Column",texture:[["plasticColumn",0]],inCreative:true}
+
+],"opaque");
+
+IDRegistry.genBlockID("largePlasticBricks");
+
+Block.createBlock("largePlasticBricks",[
+
+    {name:"Large Plastic Bricks",texture:[["plasticBricks_large",0]],inCreative:true}
+
+],"opaque");
+
+IDRegistry.genBlockID("chiseledPlasticBricks");
+
+Block.createBlock("chiseledPlasticBricks",[
+
+    {name:"Chiseled Plastic Bricks",texture:[["plasticChiseled",0]],inCreative:true}
+
+],"opaque");
+
+IDRegistry.genBlockID("plasticRoad");
+
+Block.createBlock("plasticRoad",[
+
+    {name:"Plastic Road",texture:[["plastic_road",0]],inCreative:true}
+
+],"opaque");
+
+IDRegistry.genBlockID("plasticBricks");
+
+Block.createBlock("plasticBricks",[
+
+    {name:"Plastic Bricks",texture:[["plasticBricks",0]],inCreativ
     {name:"Glowstone Bricks",texture:[["glowstone_bricks",0]],inCreative:true}
 ],"opaque");
 
