@@ -1,3 +1,6 @@
-core.js
-block/decorate.js
 translation.js
+
+block/decorate.js
+
+item/ceramic_dye.js
+item/plastic.js
